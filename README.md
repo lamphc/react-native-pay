@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/l/react-native-modal-pay.svg?style=flat-square)](https://github.com/lamphc/react-native-pay/blob/master/LICENSE)
 
 
-<img align="right" width="360px" src="./img/GIF1.gif">
+<img width="360px" src="./img/GIF1.gif">
 
 
 ### Installation
