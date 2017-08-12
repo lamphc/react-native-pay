@@ -33,7 +33,7 @@ $ yarn add react-native-modal-pay
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-import { PayMny } from '../../components/react-native-pay/index';
+import { PayMny } from 'react-native-modal-pay';
 
 
 class RnPay extends React.Component {
