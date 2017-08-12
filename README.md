@@ -102,7 +102,7 @@ export default RnPay;
 |**`loadingScale`**|`?string`|Load the image size after the input is complete._Default 'large'._|
 |**`lang`**|`?object`|Word description._Default {title: 'Enter your password',forget: 'Forget password ?'}._|
 |**`forgetCallBack`**|`() => ReactElement<any>`|Forgot Password Touch event.|
-|**`onChange`**|`?() => ReactElement<any>`|Callback is called after the password is entered.|
+|**`onChange`**|`() => ReactElement<any>`|Callback is called after the password is entered.|
 
 
 ### Advanced Usage
