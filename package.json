@@ -1,0 +1,23 @@
+{
+  "name": "react-native-modal-pay",
+  "version": "1.0.1",
+  "description": "Payment component for react-native, Components are decoupled and can be used alone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamphc/react-native-pay.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component"
+  ],
+  "author": "meng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lamphc/react-native-pay/issues"
+  },
+  "homepage": "https://github.com/lamphc/react-native-pay#readme"
+}
