@@ -1,7 +1,11 @@
 # React Native Pay 
+[![Medium](https://img.shields.io/badge/blog-medium-red.svg)](https://www.zhihu.com/people/wang-meng-30-78/posts)
+[![Build](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://npmjs.org/package/react-native-modal-pay "View this project on npm") 
 [![npm version](https://img.shields.io/npm/v/react-native-modal-pay.svg?style=flat-square)](https://www.npmjs.com/package/react-native-modal-pay) 
-[![Medium](https://img.shields.io/badge/blog-medium-brightgreen.svg)](https://www.zhihu.com/people/wang-meng-30-78/posts) 
 [![NPM downloads](https://img.shields.io/npm/dt/react-native-modal-pay.svg?style=flat-square)](https://npmjs.org/package/react-native-modal-pay)
+[![NPM downloads](https://img.shields.io/npm/dm/react-native-modal-pay.svg?style=flat-square)](https://npmjs.org/package/react-native-modal-pay)
+[![React version](https://img.shields.io/badge/react--native-0.40-brightgreen.svg)](https://npmjs.org/package/react-native-modal-pay "View this project on npm")
+[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-green.svg)](https://npmjs.org/package/react-native-modal-pay "View this project on npm")
 [![npm](https://img.shields.io/npm/l/react-native-modal-pay.svg?style=flat-square)](https://github.com/lamphc/react-native-pay/blob/master/LICENSE)
 
 
