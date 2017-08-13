@@ -106,7 +106,7 @@ export default RnPay;
 |**`loadingScale`**|`?string`|Load the image size after the input is complete._Default 'large'._|
 |**`lang`**|`?object`|Word description._Default {title: 'Enter your password',forget: 'Forget password ?'}._|
 |**`forgetCallBack`**|`() => <any>`|Forgot Password Touch event.|
-|**`onChange`**|`(password<number||string>) => <any>`|Callback is called after the password is entered, With parameter password.|
+|**`onChange`**|`(password) => <any>`|Callback is called after the password is entered, With parameter password.|
 
 
 ### Advanced Usage
