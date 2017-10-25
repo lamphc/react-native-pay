@@ -1,6 +1,6 @@
 {
   "name": "react-native-modal-pay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Payment component for react-native, Components are decoupled and can be used alone.",
   "main": "index.js",
   "scripts": {
